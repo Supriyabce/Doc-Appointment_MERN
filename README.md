@@ -17,10 +17,10 @@ A web application for managing doctor appointments, built using the MERN stack. 
 - React.js: Frontend library for building the user interface.
 - Node.js: JavaScript runtime environment for server-side development.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Node.js and npm installed.
 - MongoDB installed and running.
 
+## Contributing
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
